@@ -1,0 +1,72 @@
+{
+  "index": [
+    {
+      "altText": "more kittens",
+      "contentType": "image",
+      "createdAt": "2019-11-05T21:41:24+00:00",
+      "crops": [
+        "https://placekitten.com/200/286",
+        "https://placekitten.com/200/287"
+      ],
+      "image": "https://placekitten.com/408/287",
+      "indexedAt": "2019-11-05T21:47:51.679923+00:00",
+      "license": "CC BY-SA 2.0",
+      "rendered": "i put something here",
+      "source": "placekitten",
+      "tags": ["boo", "foo", "bar"],
+      "id": "a0b7456e-d5bb-4511-88f3-9a62907f527e"
+    },
+    {
+      "altText": "This is a kitten.",
+      "contentType": "image",
+      "createdAt": "2019-11-05T21:41:24+00:00",
+      "crops": [
+        "https://placekitten.com/200/286",
+        "https://placekitten.com/200/287"
+      ],
+      "image": "https://placekitten.com/408/287",
+      "indexedAt": "2019-11-05T21:47:51.679923+00:00",
+      "license": "CC BY-SA 2.0",
+      "rendered": "",
+      "source": "placekitten",
+      "tags": ["placekitten", "kitten"],
+      "id": "0c34f21f-99da-4744-98ad-7144f6d211c9"
+    },
+    {
+      "id": "3afe8811-dfa9-4106-91cb-e0fcce440ef4",
+      "contentType": "image",
+      "rendered": "string",
+      "tags": ["cuteness", "cats"],
+      "createdAt": "",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/03/05/12/kittens.jpg?w968h681",
+      "crops": [
+        "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/03/05/12/kittens.jpg?w968h681"
+      ],
+      "source": "CCO-SA-2V",
+      "license": "stock",
+      "altText": "baby kittens"
+    }
+  ],
+  "search": {
+    "query": "kitten",
+    "results": [
+      {
+        "altText": "This is a kitten.",
+        "contentType": "image",
+        "createdAt": "2019-11-05T21:41:24+00:00",
+        "crops": [
+          "https://placekitten.com/200/286",
+          "https://placekitten.com/200/287"
+        ],
+        "image": "https://placekitten.com/408/287",
+        "indexedAt": "2019-11-05T21:47:51.679923+00:00",
+        "license": "CC BY-SA 2.0",
+        "rendered": "",
+        "source": "placekitten",
+        "tags": ["placekitten", "kitten"],
+        "uuid": "a0b7456e-d5bb-4511-88f3-9a62907f527e"
+      }
+    ],
+    "searchTimeMsecs": 105
+  }
+}
